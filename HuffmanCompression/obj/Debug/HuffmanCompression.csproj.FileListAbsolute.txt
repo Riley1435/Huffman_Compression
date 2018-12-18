@@ -1,0 +1,7 @@
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\bin\Debug\HuffmanCompression.exe.config
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\bin\Debug\HuffmanCompression.exe
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\bin\Debug\HuffmanCompression.pdb
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\obj\Debug\HuffmanCompression.csprojAssemblyReference.cache
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\obj\Debug\HuffmanCompression.csproj.CoreCompileInputs.cache
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\obj\Debug\HuffmanCompression.exe
+C:\Users\Riley\Documents\CSCI 312\HuffmanCompression\HuffmanCompression\obj\Debug\HuffmanCompression.pdb
